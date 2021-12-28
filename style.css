@@ -43,3 +43,18 @@ img.portrait {
 #toc_container li, #toc_container ul, #toc_container ul li {
     list-style: outside none none !important;
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ccc;
+        background: black
+    }
+
+    a:link {
+        color: #5bf
+    }
+
+    a:visited {
+        color: #ccf
+    }
+}
