@@ -1,27 +1,27 @@
-body{
-    max-width:650px;
-    margin:40px auto;
-    padding:0 10px;
-    font:18px/1.5 -apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;
-    color:#444
+body {
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 18px/1.5 -apple-system, BlinkMacSystemFont, "avenir next", avenir, "Segoe UI", "lucida grande", "helvetica neue", helvetica, "Fira Sans", roboto, noto, "Droid Sans", cantarell, oxygen, ubuntu, "franklin gothic medium", "century gothic", "Liberation Sans", sans-serif;
+    color: #444
 }
 
-h1,h2,h3{
-    line-height:1.2;
+h1, h2, h3 {
+    line-height: 1.2;
     text-align: center;
 }
 
-hr{
+hr {
     width: 50%;
 }
 
-.center{
+.center {
     text-align: center;
 }
 
-img.portrait{
-    margin:0 10 10 10;
-    padding:0 10px;
+img.portrait {
+    margin: 0 1em 1em 1em;
+    padding: 0 10px;
     float: left;
 }
 
@@ -40,6 +40,6 @@ img.portrait{
     text-align: center;
 }
 
-#toc_container li, #toc_container ul, #toc_container ul li{
+#toc_container li, #toc_container ul, #toc_container ul li {
     list-style: outside none none !important;
 }
