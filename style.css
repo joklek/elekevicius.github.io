@@ -8,11 +8,21 @@ body{
 
 h1,h2,h3{
     line-height:1.2;
+    text-align: center;
+}
+
+hr{
+    width: 50%;
+}
+
+.center{
+    text-align: center;
 }
 
 img.portrait{
     margin:0 10 10 10;
     padding:0 10px;
+    float: left;
 }
 
 #toc_container {
